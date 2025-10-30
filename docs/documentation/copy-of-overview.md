@@ -1,5 +1,5 @@
 ---
-title: Copy of Overview
+title: Another Page
 excerpt: This is pretty badass
 deprecated: false
 hidden: true
