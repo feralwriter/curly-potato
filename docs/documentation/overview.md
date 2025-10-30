@@ -13,3 +13,5 @@ I can see using this for documentation. It would require using markdown to keep 
 I wonder if you can use HTML?
 
 <i>can I use HTML</i>
+
+<em>YES</em>
