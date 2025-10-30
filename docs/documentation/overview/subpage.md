@@ -6,19 +6,19 @@ metadata:
   robots: index
 ---
 <Cards columns={4}>
-  <Card title="First Card" href="https://readme.com" icon="fa-home" target="_blank">
+  <Card title="First Card" icon="fa-home" >
     STuff
   </Card>
 
   <Card title="Second Card" icon="fa-user">
-    Stuff  
-</Card>
+    Stuff
+  </Card>
 
   <Card title="Third Card" icon="fa-star">
-    stuff  
-</Card>
+    stuff
+  </Card>
 
   <Card title="Fourth Card" icon="fa-question">
-   stuff
+    stuff
   </Card>
 </Cards>
