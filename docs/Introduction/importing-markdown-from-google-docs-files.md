@@ -10,6 +10,8 @@ metadata:
 ---
 # Export or Copy Google Doc as Markdown
 
+To get markdown out of a Google Doc, you can either copy the content as markdown or export the entire file as Markdown.
+
 Copy Google Docs content as Markdown
 
 
@@ -27,5 +29,7 @@ You can export the document as Markdown for use in another application. You’ll
 3. Select **Markdown (.md)**.
 
 # Import or Paste Markdown
+
+You can use the `rdme` CLI tool to import markdown files into Readme.io, but that is beyond the scope of this test. 
 
 <br />
