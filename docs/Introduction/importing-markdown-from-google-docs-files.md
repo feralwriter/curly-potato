@@ -25,3 +25,7 @@ You can export the document as Markdown for use in another application. You’ll
 1. On your computer, open a document in Google Docs.
 2. Click **File > Download**.
 3. Select **Markdown (.md)**.
+
+# Import or Paste Markdown
+
+<br />
