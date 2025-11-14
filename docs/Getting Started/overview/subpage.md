@@ -6,7 +6,7 @@ metadata:
   robots: index
 ---
 <Cards columns={4}>
-  <Card title="First Card" icon="fa-home" >
+  <Card title="First Card" icon="fa-home">
     STuff
   </Card>
 
@@ -22,3 +22,12 @@ metadata:
     stuff
   </Card>
 </Cards>
+
+<br />
+
+```mermaid
+flowchart LR 
+ A --- B[fa:fa-spinner B] 
+ B --> C[fa:fa-check C] 
+ B --> D[fa:fa-ban D]
+```
