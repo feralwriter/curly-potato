@@ -1,5 +1,5 @@
 ---
-title: Getting Started Readme.io
+title: Readme.io Info
 excerpt: >-
   This is the start of my test environment. It is a default page with links to
   many Readme.io resources. I would definitely recommend this application to my
