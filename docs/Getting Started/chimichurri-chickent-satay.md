@@ -1,5 +1,5 @@
 ---
-title: Chimichurri Chickent Satay
+title: Chimichurri Chicken Satay - Copy Paste
 excerpt: 'Copy as Markdown > Paste workflow It worked well but did not copy the image. '
 deprecated: false
 hidden: false
@@ -38,4 +38,4 @@ Chicken
 2. Pound chicken thighs to about 1/4-inch thickness, then cut thigh in half lengthwise. Thread chicken onto a skewer using an under and over motion. Repeat until each thigh is on a skewer. Season with salt and pepper.
 3. Brush skewers on both sides with chimichurri sauce. Grill the first side for 4-5 minutes. Flip, brush with additional sauce and grill for 4-6 minutes, or until internal temperature of 160º is reached. Serve with reserved chimichurri sauce.
 
-**Note to Me: **Text was pasted just fine from google docs (copy as markdown). However the image did not come through. 
+**Note to Me: **Text was pasted just fine from google docs (copy as markdown). However the image did not come through.
