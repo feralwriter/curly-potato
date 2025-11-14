@@ -7,11 +7,6 @@ deprecated: false
 hidden: false
 metadata:
   robots: index
-next:
-  pages:
-    - slug: subpage
-      title: Subpage
-      type: basic
 ---
 # Export or Copy Google Doc as Markdown
 
