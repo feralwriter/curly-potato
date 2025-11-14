@@ -38,3 +38,5 @@ Chicken
 3. Brush skewers on both sides with chimichurri sauce. Grill the first side for 4-5 minutes. Flip, brush with additional sauce and grill for 4-6 minutes, or until internal temperature of 160º is reached. Serve with reserved chimichurri sauce.
 
 **Note to Me:** Text was pasted just fine from google docs (copy as markdown). However the image did not come through.
+
+<br />
