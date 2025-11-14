@@ -39,4 +39,6 @@ Chicken
 
 **Note to Me:** Text was pasted just fine from google docs (copy as markdown). However the image did not come through.
 
+<Note />
+
 <br />
