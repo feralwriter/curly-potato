@@ -3,7 +3,6 @@ title: Chimichurri Chicken Satay - Copy Paste
 excerpt: 'Copy as Markdown > Paste workflow It worked well but did not copy the image. '
 deprecated: false
 hidden: false
-icon: fad fa-paste
 metadata:
   robots: index
 ---
