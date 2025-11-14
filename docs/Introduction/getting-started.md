@@ -3,7 +3,8 @@ title: Readme.io Info
 excerpt: >-
   This is the start of my test environment. It is a default page with links to
   many Readme.io resources. I would definitely recommend this application to my
-  company for doing docs. 
+  company for doing docs. I think I need to change something here for the name
+  change to get back to GIT
 hidden: false
 ---
 # Welcome to ReadMe
