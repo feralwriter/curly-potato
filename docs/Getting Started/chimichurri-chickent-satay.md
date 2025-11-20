@@ -35,10 +35,11 @@ Chicken
 
 1. Preheat the grill to medium (375º-425º). In a food processor, add parsley, cilantro, oregano, garlic, oil, wine, salt and pepper. Pulse to combine ingredients. Sauce should have coarse pieces of herb. Divide chimichurri sauce into two small bowls, reserving one bowl.
 2. Pound chicken thighs to about 1/4-inch thickness, then cut thigh in half lengthwise. Thread chicken onto a skewer using an under and over motion. Repeat until each thigh is on a skewer. Season with salt and pepper.
-3. Brush skewers on both sides with chimichurri sauce. Grill the first side for 4-5 minutes. Flip, brush with additional sauce and grill for 4-6 minutes, or until internal temperature of 160º is reached. Serve with reserved chimichurri sauce.
+3. Brush skewers on both sides with chimichurri sauce. Grill the first side for 4-5 minutes. Flip, brush with additional sauce and grill for 4-6 minutes, or until internal temperature of 160º is reached. Serve with reserved   
+   Chimichurri sauce.
 
-**Note to Me:** Text was pasted just fine from google docs (copy as markdown). However the image did not come through.
+<Callout icon="📘" theme="info">
+  **NOTE**
 
-<Note />
-
-<br />
+  Text was pasted just fine from google docs (copy as markdown). However the image did not come through.
+</Callout>
