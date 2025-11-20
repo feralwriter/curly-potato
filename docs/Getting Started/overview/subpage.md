@@ -5,7 +5,7 @@ hidden: false
 metadata:
   robots: index
 ---
-# Some 
+# An MDX Component
 
 <Cards columns={4}>
   <Card title="First Card" icon="fa-home">
@@ -25,8 +25,7 @@ metadata:
   </Card>
 </Cards>
 
-
-<br />
+# Fun with Mermaid
 
 ```mermaid
 flowchart LR 
