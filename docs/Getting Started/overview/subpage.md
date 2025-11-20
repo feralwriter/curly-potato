@@ -1,10 +1,12 @@
 ---
-title: Subpage
+title: Examples of Fun Things
 deprecated: false
 hidden: false
 metadata:
   robots: index
 ---
+# Some 
+
 <Cards columns={4}>
   <Card title="First Card" icon="fa-home">
     STuff
@@ -22,6 +24,7 @@ metadata:
     stuff
   </Card>
 </Cards>
+
 
 <br />
 
